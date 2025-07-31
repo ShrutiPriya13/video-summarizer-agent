@@ -1,5 +1,5 @@
 streamlit
-phi
+phi==0.6.7
 openai
 google-generativeai
 duckduckgo-search
