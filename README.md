@@ -50,13 +50,19 @@ pip install -r requirements.txt
 
 Create requirements.txt if not already present:
 
--`streamlit`
--`phi`
--`google-generativeai`
--`groq`
--`duckduckgo-search`
--`yfinance`
--`python-dotenv`
+`streamlit`
+
+`phi`
+
+`google-generativeai`
+
+`groq`
+
+`duckduckgo-search`
+
+`yfinance`
+
+`python-dotenv`
 
 
 ### 3. Set Up API Keys
