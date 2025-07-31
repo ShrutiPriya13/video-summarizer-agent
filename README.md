@@ -49,30 +49,40 @@ pip install -r requirements.txt
 ```
 
 Create requirements.txt if not already present:
-`streamlit`
-`phi`
-`google-generativeai`
-`groq`
-`duckduckgo-search`
-`yfinance`
-`python-dotenv`
+
+-`streamlit`
+-`phi`
+-`google-generativeai`
+-`groq`
+-`duckduckgo-search`
+-`yfinance`
+-`python-dotenv`
 
 
 ### 3. Set Up API Keys
 
 Option A:
-Create a .env file in the root directory:
+
+- Create a .env file in the root directory:
+
 `GOOGLE_API_KEY="your_google_api_key"`
+
 `OPENAI_API_KEY="your_openai_api_key"`
+
 `GROQ_API_KEY="your_groq_api_key"`
+
 `PHI_API_KEY="your_phi_api_key"`
 
 Option B: Using Streamlit Secrets
-Create a file at .streamlit/secrets.toml:
+
+- Create a file at .streamlit/secrets.toml:
 
 `GOOGLE_API_KEY = "your_google_api_key"`
+
 `OPENAI_API_KEY = "your_openai_api_key"`
+
 `GROQ_API_KEY = "your_groq_api_key"`
+
 `PHI_API_KEY = "your_phi_api_key"`
 
 ## 🧠 Run the Applications
