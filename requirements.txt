@@ -1,0 +1,7 @@
+streamlit
+phi
+openai
+google-generativeai
+duckduckgo-search
+python-dotenv
+

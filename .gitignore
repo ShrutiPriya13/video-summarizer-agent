@@ -1,0 +1,44 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# IDE Files
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# Environment Variables
+.env
+
+# Temporary Files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Video Uploads
+*.mp4
+*.mov
+*.avi
+
+# Output Files
+*.json
+*.pickle
+
+# Mac-specific
+.DS_Store
+
+# Windows-specific
+ehthumbs.db
+Icon?
